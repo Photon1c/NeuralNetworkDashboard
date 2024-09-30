@@ -5,8 +5,7 @@ Deploys a fast neural network dashboard to monitor data training and other activ
 
 The images are placeholders for varying input types. Check back for updates to this project as it grows.
 
-To run, use "python dashboard.py"
+To run, install the required modules with the command ```pip install -r requirements.txt``` 
 
-The dash module and other dependencies are needed. A requirements.txt file will be added later since this project
+and then run the command```python dashboard.py```
 
-did not originate from an isolated environment.
